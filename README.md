@@ -40,6 +40,10 @@ A [predictive model](neural_network.ipynb) was initiated using the original data
 
 The build-up to a model with grade as target was followed as previously for sub-grade with use of the same three neural network layers. The model was fitted, and as epochs were generated, they revealed accuracy to be much higher than for sub-grades but still only in the 41-43% range with a top two predictions accuracy of 71.7%. Consequently, the dataset and columns that had been selected as features were revisited.
 
+![alt text](accuracy-1.png)
+![alt text](top_k_categorical_accuracy-2.png)
+![alt text](loss-1.png)
+
 Upon more analysis of those, it was determined that the entire dataset could be reshaped as described above (Data Processing and Analysis), reducing its columns by nearly a third and cutting its number of rows by more than half. In addition, it was further observed that loan grade influences interest rate, but interest rate does not drive loan grade.
 
 In light of those observations, another model was initiated with the reshaped dataset and a new target of interest rate instead of grade. Also, a different selection of columns was made, considering the changes to the original dataset and particular inclusion of sub-grade as a feature given its increased granularity in contrast to grades. In addition, four layers versus three were used for the neural network, repeating usage of sigmoid but exchanging softmax for linear. With the model accordingly fitted, epochs were started and immediately began showing achievement of 99.4% accuracy.
