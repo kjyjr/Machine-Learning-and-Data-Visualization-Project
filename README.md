@@ -54,6 +54,34 @@ In light of those observations, another model was initiated with the reshaped da
 
 Visualizations were then prepared to demonstrate relationships between features and the target of interest rate.
 
+### Correlation of Features to Interest Rate
+
+[text](<../../../Documents/Occupation/6_Upskilling/Edu/UNCC/Group Projects/Group Project 4/Correlations_IntRate.pptx>)
+
+### Loan Amount by Annual Income
+
+[text](<../../../Documents/Occupation/6_Upskilling/Edu/UNCC/Group Projects/Group Project 4/LoanAmt_Annl_Income.pptx>)
+
+### Credit Rating and Interest Rate
+
+[text](<../../../Documents/Occupation/6_Upskilling/Edu/UNCC/Group Projects/Group Project 4/CrRating_IntRate.pptx>)
+
+### Type of loan applied for and average interest rates given
+
+[text](<../../../Documents/Occupation/6_Upskilling/Edu/UNCC/Group Projects/Group Project 4/LoanType_IntRate.pptx>)
+
+### Low-to-Medium Income and Interest Rates
+
+[text](<../../../Documents/Occupation/6_Upskilling/Edu/UNCC/Group Projects/Group Project 4/Low-MedIncome_IntRate.pptx>)
+
+### High Income and Interest Rates
+
+[text](<../../../Documents/Occupation/6_Upskilling/Edu/UNCC/Group Projects/Group Project 4/HighIncome_IntRate.pptx>)
+
+### Interest Rates by State
+
+[text](<../../../Documents/Occupation/6_Upskilling/Edu/UNCC/Group Projects/Group Project 4/States_IntRate.pptx>)
+
 ## Technological Resources
 
 Several tools/libraries and applications were used in this project. Python Pandas - along with Matplotlib, NumPy, Re, Sci-Kit Learn, SciPy, Seaborn, and StatsModels - were imported into Jupyter notebooks for data processing and early analysis. Sci-Kit Learn, TensorFlow, and Keras were imported into a separate Jupyter notebook to initiate and execute the neural network models. Matplotlib, Seaborn, and Tableau were relied upon for data visualizations.
