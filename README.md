@@ -56,31 +56,31 @@ Visualizations were then prepared to demonstrate relationships between features 
 
 ### Correlation of Features to Interest Rate
 
-[text](<../../../Documents/Occupation/6_Upskilling/Edu/UNCC/Group Projects/Group Project 4/Correlations_IntRate.pptx>)
+![alt text](image-1.png)
 
 ### Loan Amount by Annual Income
 
-[text](<../../../Documents/Occupation/6_Upskilling/Edu/UNCC/Group Projects/Group Project 4/LoanAmt_Annl_Income.pptx>)
+![alt text](image-2.png)
 
 ### Credit Rating and Interest Rate
 
-[text](<../../../Documents/Occupation/6_Upskilling/Edu/UNCC/Group Projects/Group Project 4/CrRating_IntRate.pptx>)
+![alt text](image-3.png)
 
 ### Type of loan applied for and average interest rates given
 
-[text](<../../../Documents/Occupation/6_Upskilling/Edu/UNCC/Group Projects/Group Project 4/LoanType_IntRate.pptx>)
+![alt text](image-4.png)
 
 ### Low-to-Medium Income and Interest Rates
 
-[text](<../../../Documents/Occupation/6_Upskilling/Edu/UNCC/Group Projects/Group Project 4/Low-MedIncome_IntRate.pptx>)
+![alt text](image-5.png)
 
 ### High Income and Interest Rates
 
-[text](<../../../Documents/Occupation/6_Upskilling/Edu/UNCC/Group Projects/Group Project 4/HighIncome_IntRate.pptx>)
+![alt text](image-6.png)
 
 ### Interest Rates by State
 
-[text](<../../../Documents/Occupation/6_Upskilling/Edu/UNCC/Group Projects/Group Project 4/States_IntRate.pptx>)
+![alt text](image-7.png)
 
 ## Technological Resources
 
