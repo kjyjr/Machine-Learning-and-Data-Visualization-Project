@@ -48,6 +48,10 @@ Upon more analysis of those, it was determined that the entire dataset could be 
 
 In light of those observations, another model was initiated with the reshaped dataset and a new target of interest rate instead of grade. Also, a different selection of columns was made, considering the changes to the original dataset and particular inclusion of sub-grade as a feature given its increased granularity in contrast to grades. In addition, four layers versus three were used for the neural network, repeating usage of sigmoid but exchanging softmax for linear. With the model accordingly fitted, epochs were started and immediately began showing achievement of 99.4% accuracy.
 
+![alt text](loss-2.png)
+![alt text](mean_absolute_percentage_error.png)
+![alt text](r2_score.png)
+
 Visualizations were then prepared to demonstrate relationships between features and the target of interest rate.
 
 ## Technological Resources
